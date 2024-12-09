@@ -1,0 +1,290 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Cairo", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    direction: rtl;
+  }
+  
+  .d-table {
+    width: 100%;
+    height: 100%;
+  }
+  .d-table-cell {
+    vertical-align: middle;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  a {
+    color: #333333;
+    transition: 0.6s;
+    text-decoration: none;
+    outline: 0 !important;
+  }
+  a:hover {
+    color: #209e2e;
+    text-decoration: none;
+  }
+  
+  p {
+    line-height: 1.8;
+    color: #7a7e9a;
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+  
+  button {
+    outline: 0 !important;
+  }
+  
+  .ptb-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .pt-100 {
+    padding-top: 100px;
+  }
+  
+  .pb-100 {
+    padding-bottom: 100px;
+  }
+  
+  .pb-70 {
+    padding-bottom: 70px;
+  }
+  
+  .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+    font-weight: bold;
+    font-family: "Cairo", sans-serif;
+  }
+
+  .trifles-nav .navbar .navbar-nav .nav-item a {
+    margin-left: 13px !important;
+    margin-right: 0px;
+}
+.home-banner-two {
+    position: relative;
+    overflow: hidden;
+    direction: ltr;
+}
+.navbar-area.navbar-style-two .trifles-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
+    text-align: right;
+}
+.sidebar-modal .sidebar-modal-inner .close-btn {
+    display: inline-block;
+    position: absolute;
+    left: 35px;
+    right: unset;
+    top: 50px;
+}
+.sidebar-modal .sidebar-instagram-feed ul,.sidebar-modal .sidebar-contact-area .contact-info .contact-info-content .social {
+padding: 0 !important;
+}
+.home-banner-two .home-slides.owl-theme .owl-dots {
+    margin: 0 !important;
+    position: absolute;
+    top: 50%;
+    left: 80px;
+    right: unset;
+}
+.home-banner-two .home-slides .home-item .main-banner-content h1 {
+    animation: 800ms ease-in-out 0s normal none 1 running fadeInRight;
+}
+.home-banner-two .home-slides .home-item .main-banner-content p {
+    animation: 900ms ease-in-out 0s normal none 1 running fadeInRight;
+}
+.home-banner-two .home-slides .home-item .main-banner-content .banner-btn {
+    animation: 800ms ease-in-out 0s normal none 1 running fadeInRight;
+}
+.home-banner-two .home-slides .home-item .main-banner-content {
+    max-width: 630px;
+    margin-right: unset;
+    margin-left: auto;
+    text-align: right;
+}
+.about-title-area .about-title {
+    border-left: 1px solid #dfdddf;
+    border-right: 0;
+    padding-left: 35px;
+    padding-right: 0;
+}
+.about-slider{
+    direction: ltr;
+}
+.about-content-area .about-list i{
+    margin-left: 6px;
+    margin-right: 0;
+}
+.about-content-area .about-list {
+padding: 0;
+}
+.services-slider{
+    direction: ltr;
+}
+.shop-list-tab .tabs li:first-child {
+    padding-right: 0;
+}
+.shop-list-tab .tabs li {
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    padding-left: 20px !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-left: 1px dashed #209e2e;
+    border-right: 0;
+}
+.gallery-title-area .gallery-title {
+    border-left: 1px solid #dfdddf;
+    border-right: 0;
+    padding-left: 35px;
+    padding-right: 0;
+}
+.fun-facts-content-area .single-fun-fact {
+    text-align: center;
+    position: relative;
+    border-left: 1px dashed #209e2e;
+    border-right: 0;
+}
+.fun-facts-content-area .col-lg-3:last-child .single-fun-fact {
+    border-left: none;
+}
+.shop-list-tab .tabs li:last-child {
+    border: none;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.testimonials-section{
+    direction: ltr;
+}
+.single-blog-item-two .blog-content span {
+    padding-right: 18px;
+    padding-left: 0;
+}
+.single-blog-item-two .blog-content span::before {
+    position: absolute;
+    content: "";
+    height: 10px;
+    width: 10px;
+    background-color: #ffffff;
+    right: 0;
+    left: unset;
+    top: 4px;
+    border-radius: 30px;
+}
+.partner-area{
+    direction: ltr;
+}
+.single-footer-widget .footer-quick-links{
+padding: 0;
+}
+.single-footer-widget .footer-info-contact h3 { 
+    padding-right: 25px;
+    padding-left: 0;
+}
+.single-footer-widget .footer-info-contact i {
+    right: 0;
+    left: unset;
+    top: 0px;
+}
+.footer-blog img {
+    height: 70px;
+    padding-left: 10px;
+    padding-right: 0;
+}
+.copyright-area .copyright-area-content ul {
+    text-align: left;
+}
+.page-title-content ul li::before {
+    content: "";
+    position: absolute;
+    left: -15px;
+    right: unset;
+    top: 11px;
+}
+.page-title-content ul {
+    padding: 0;
+}
+.widget-area .widget .widget-title::before {
+    right: 0;
+    left: unset;
+}
+.widget-area .widget_trifles_posts_thumb .item .active i {
+    transform: rotate(180deg) !important;
+}
+.widget-area .widget_trifles_posts_thumb .item .thumb-serv i {
+    transform: rotate(220deg);
+}
+.widget-area .widget_trifles_posts_thumb .item .thumb-serv:hover i {
+    transform: rotate(180deg);
+}
+.service-details-desc .article-content .wp-block-gallery.columns-3{
+    padding: 0;
+}
+.post-navigation .navigation-links .nav-next a i {
+    margin-right: 2px;
+    transition: 0.6s;
+}
+.post-navigation .navigation-links .nav-next {
+    flex: 0 0 50%;
+    max-width: 50%;
+    text-align: left;
+}
+.post-navigation .navigation-links .nav-next a .fa-chevron-right:before{
+    content: "\f053";
+}
+.post-navigation .navigation-links .nav-previous a .fa-chevron-left:before{
+    content: "\f054";
+}
+.blog-details-desc .article-content .entry-meta ul{
+    padding: 0;
+}
+blockquote::after, .blockquote::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    left: unset;
+    top: 0;
+}
+blockquote::before, .blockquote::before {
+    color: #efefef;
+    content: "\f10e";
+    position: absolute;
+    right: 50px;
+    left: unset;
+    top: -50px;
+}
+.blog-details-desc .article-content .wp-block-gallery.columns-3{
+    padding: 0;
+}
+.blog-details-desc .article-content .features-list li {
+    padding-right: 34px;
+    padding-left: 0;
+}
+.blog-details-desc .article-content .features-list li i {
+    font-size: 11px;
+    position: absolute;
+    right: 0;
+    left: unset;
+    top: -2px;
+}
+.blog-details-desc .article-content .features-list{
+    padding: 0;
+}
+.products-details-tab .tab_content .tabs_item .products-details-tab-content .additional-information {
+    text-align: right;
+}
+.products-details-tab .tab_content .tabs_item .products-details-tab-content .additional-information li span {
+    width: auto;
+}
